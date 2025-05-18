@@ -1,0 +1,1 @@
+("8.15" ta6osx ("7351b45af8b9a137595c0e68b1c52d98c02c020e" . "0f874a50b8330d096b26f2097c2e6679be325ed9") #"/Users/sora/Desktop/loot/ast.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt") (indirect collects #"racket" #"match" #"gen-match.rkt") (indirect collects #"racket" #"match" #"parse.rkt"))
